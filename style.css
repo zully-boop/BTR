@@ -1,0 +1,33 @@
+/*Agregamos color a la pagina*/
+body{
+    font-family:"Lily Script One", system-ui;
+    background-color: #0b05ac9a;
+    color: rgb(249, 247, 247);
+}
+
+p{
+    font-size: 30px;
+}
+h1, h3, h4{
+    font-size: 50px
+}
+
+ul, ol{
+    font-size: 30px;
+}
+a{
+    color: rgb(249, 247, 247);
+}
+
+.Titulo{
+    width: 600px;
+    margin: auto;
+    background-color: pink;
+}
+
+.Menu{
+    width: 600px;
+    background-color: pink;
+}
+
+
